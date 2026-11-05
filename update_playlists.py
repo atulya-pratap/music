@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-MRPS MUSIC - Automated Hindi Evergreen Playlist Updater
+Atulya MUSIC - Automated Hindi Evergreen Playlist Updater
 Scrapes verified single-track YouTube audio for pure Hindi Evergreen playlists.
 """
 import json, subprocess, sys, shutil, os
