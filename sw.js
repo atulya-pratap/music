@@ -1,5 +1,5 @@
-// MRPS MUSIC Service Worker (PWA & Android Auto Offline Ready)
-const CACHE_NAME = 'mrps-music-v80';
+// Atulya MUSIC Service Worker (PWA & Android Auto Offline Ready)
+const CACHE_NAME = 'Atulya-music-v80';
 const STATIC_ASSETS = [
     './',
     './index.html',
